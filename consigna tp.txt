@@ -1,0 +1,26 @@
+jugar +
+enemigo +
+vidas +
+proyectiles +
+cronometro +
+menu game over +
+items especiales +
+musica +
+efectos +
+puntuacion +
+menu pausa +
+pantalla de ranking -/+
+
+trampas +/-
+settings -/+
+
+menu de niveles -
+items -
+plataforma -
+terreno -
+
+
+
+
+
+
